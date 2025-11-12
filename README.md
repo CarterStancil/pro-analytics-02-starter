@@ -15,7 +15,7 @@ The project progresses through data cleaning, exploration, segmentation, statist
 ---
 
 ## Repository Structure
-
+```
 NBA_Drives_Analysis/
 │
 ├── NBATrackingDataWins24-25.csv
@@ -32,7 +32,7 @@ NBA_Drives_Analysis/
 ├── 05_Predictive_Modeling.ipynb
 │
 └── README.md
-
+```
 ---
 
 ## Data Preparation
